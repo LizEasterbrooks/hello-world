@@ -8,3 +8,6 @@ Since GitHub's tutorial asked suggested we name the repository "Hello World" I g
 programming languages I know. (Imma skip MASM if that's alright with everyone ;3).
 
 I wrote the seed of the actualCode file in C, so how about C++ first.
+
+And then I could try JavaScript, but since JS mostly works within webpages... I'm not really sure what else to out other than console.log 
+or use an alert... I'll work on that ^_^
